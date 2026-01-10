@@ -15,9 +15,6 @@ This repository contains machine learning concepts implemented from scratch usin
 - simple_linear_model.py → Simple linear prediction
 - other ML utilities → Normalization, axis operations, summaries
 
-### Utilities
-- dataset_handler.py → Row/column operations
-- misc_examples.py → Python + NumPy examples
 
 ## Notes
 - Implemented using NumPy (vectorization)
